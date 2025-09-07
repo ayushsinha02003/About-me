@@ -3,14 +3,17 @@
 I am a passionate B.Tech CS student at Aryan Institute of Engineering and Technology, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 
+
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsinha02003&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Computer Science Engineering at Aryan Institute of Engineering and Technology.
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -27,6 +30,7 @@ I am a passionate B.Tech CS student at Aryan Institute of Engineering and Techno
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
 
 
 ## 🌱 Currently Exploring
