@@ -39,12 +39,13 @@ I am a passionate B.Tech CS student at Aryan Institute of Engineering and Techno
   - Diving into PostgreSQL for efficient and scalable database management.
   
 -🚀 Learning Data Structure
- -Understanding time and space complexity for writing optimized code.
- -Mastering arrays, strings, linked lists, stacks, queues, hashmaps, and trees.
- -Solving problems with recursion, dynamic programming, and greedy algorithms.
- -Exploring graphs, search/sort algorithms, and advanced data structures.
- -Practicing on LeetCode, Codeforces, and HackerRank to strengthen problem-solving skills.
+  - Understanding time and space complexity for writing optimized code.
+  - Mastering arrays, strings, linked lists, stacks, queues, hashmaps, and trees.
+  - Solving problems with recursion, dynamic programming, and greedy algorithms.
+  - Exploring graphs, search/sort algorithms, and advanced data structures.
+  - Practicing on LeetCode, Codeforces, and HackerRank to strengthen problem-solving skills.
 
+ 
  ## 🏆 Achievements
 
 
