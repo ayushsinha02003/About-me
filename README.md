@@ -42,7 +42,7 @@ I am a passionate B.Tech CS student at Aryan Institute of Engineering and Techno
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
   
--🚀 Learning Data Structure
+- 🚀 Learning Data Structure
   - Understanding time and space complexity for writing optimized code.
   - Mastering arrays, strings, linked lists, stacks, queues, hashmaps, and trees.
   - Solving problems with recursion, dynamic programming, and greedy algorithms.
